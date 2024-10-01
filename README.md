@@ -32,6 +32,7 @@ Make sure to use the id of the path you want it to follow (in the `href` of the 
    href="#path1" />
     </animateMotion>
   </circle>
+```
 
 Visualize the animation in your browser.
 In `Inkscape`, move along your circle so that it starts at the first station.
